@@ -1,4 +1,4 @@
-<img width="900" height="1602" alt="Leetcode_mathemathics" src="https://github.com/user-attachments/assets/0b4f9f06-0937-4826-99b6-60e01239a316" /><img width="900" height="1602" alt="Leetcode_mathemathics" src="https://github.com/user-attachments/assets/96d1b10c-fe5e-4a42-8fc9-eb2d54a890f5" />![Screenshot 2026-01-29 200720](https://github.com/user-attachments/assets/6254a065-4907-487e-aa06-74eb332a7941)# 🚀 LeetCode Journey – Raj Kumar Chaurasiya
+# 🚀 LeetCode Journey – Raj Kumar Chaurasiya
 
 Welcome to my **LeetCode Profile Showcase Repository**!  
 This repository highlights my problem-solving journey, achievements, and badges earned on **LeetCode**, reflecting my continuous effort to improve in **Data Structures, Algorithms, Mathematics, and Software Architecture**.
